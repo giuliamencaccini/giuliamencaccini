@@ -4,23 +4,20 @@
 
 **MSc student in Artificial Intelligence and Data Engineering · University of Rome Tor Vergata**
 
-<img src="https://img.shields.io/badge/Open_to-part--time_internships-2EA44F?style=for-the-badge"/>
-
 </div>
 
 ---
 
 ### 🔎 A bit about me
 
-I'm the kind of person who keeps asking *"but why does it work?"* until the answer really makes sense.
-During my BSc in Computer Engineering this turned into a habit of looking beyond the first working solution: designing the database before writing the queries, choosing the architecture before writing the classes, testing before calling something done.
+I graduated in Computer Engineering at the University of Rome Tor Vergata, where I'm now attending the MSc in Artificial Intelligence and Data Engineering.
 
-Now I'm bringing the same approach to my MSc in Artificial Intelligence and Data Engineering.
+I'm naturally curious: I don't stop at the first solution that works, I want to understand *why* it works. It's the approach I bring to every project, from designing a database to structuring an application.
 
 ### 🛠️ My toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,mysql,git,github,idea,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,mysql,git,github,idea,androidstudio" />
 </p>
 
 ### 📂 Projects worth a look
