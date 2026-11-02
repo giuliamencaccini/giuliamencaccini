@@ -12,7 +12,7 @@
 
 I graduated in Computer Engineering at the University of Rome Tor Vergata, where I'm now attending the MSc in Artificial Intelligence and Data Engineering.
 
-I'm naturally curious: I don't stop at the first solution that works, I want to understand *why* it works. It's the approach I bring to every project, from designing a database to structuring an application.
+What I enjoy most in a project is understanding how the pieces fit together, from the data model to the application on top of it.
 
 ### 🛠️ My toolbox
 
